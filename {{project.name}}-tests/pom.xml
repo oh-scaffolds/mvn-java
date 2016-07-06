@@ -10,7 +10,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>{{project.artifactId}}-mock</artifactId>
+  <artifactId>{{project.artifactId}}-tests</artifactId>
   <name>{{project.name}} Tests</name>
 
   <dependencies>
